@@ -1,0 +1,6 @@
+{
+  "name": "htmlparser",
+  "version": "0.1.0",
+  "main": "./lib/htmlparser.min.js",
+  "dependencies": {}
+}
